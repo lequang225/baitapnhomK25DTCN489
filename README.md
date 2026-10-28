@@ -27,7 +27,7 @@ năm thuật toán tìm kiếm kinh điển trên hai loại không gian trạng
 Yêu cầu: **Python 3.9+**. Ứng dụng chỉ dùng thư viện chuẩn, không cần `pip install`.
 
 ```bash
-git clone https://github.com/<tai-khoan>/pathfinding-visualizer.git
+git clone https://github.com/lequang225/baitapnhomK25DTCN489.git
 cd pathfinding-visualizer
 python main.py
 ```
@@ -128,9 +128,9 @@ A\* cho lời giải tối ưu giống hệt UCS nhưng chỉ mở rộng khoả
 
 | STT | Họ và tên | MSSV | Nhiệm vụ |
 |---|---|---|---|
-| 1 | | | |
-| 2 | | | |
-| 3 | | | |
+| 1 | Trần Minh Chiến | K25DTCN489 | |
+| 2 | Lê Bá Quảng | K25DTCN499 | |
+| 3 | Phan Trần Phương Vy | K25DTCN505 | |
 
 ## Giấy phép
 
