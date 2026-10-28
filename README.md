@@ -28,7 +28,7 @@ Yêu cầu: **Python 3.9+**. Ứng dụng chỉ dùng thư viện chuẩn, khôn
 
 ```bash
 git clone https://github.com/lequang225/baitapnhomK25DTCN489.git
-cd pathfinding-visualizer
+cd baitapnhomK25DTCN489
 python main.py
 ```
 
