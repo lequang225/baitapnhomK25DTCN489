@@ -104,7 +104,7 @@ pathfinding-visualizer/
 |-- docs/                    # bao cao, slide, hinh minh hoa
 |-- README.md
 +-- requirements.txt
-
+```
 
 Mọi thuật toán nhận vào một đối tượng bài toán có đúng bốn thành phần —
 `start`, `is_goal(s)`, `neighbors(s)`, `heuristic(s)` — nên có thể áp dụng cho
