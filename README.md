@@ -128,9 +128,9 @@ A\* cho lời giải tối ưu giống hệt UCS nhưng chỉ mở rộng khoả
 
 | STT | Họ và tên | MSSV | Nhiệm vụ |
 |---|---|---|---|
-| 1 | Trần Minh Chiến | K25DTCN489 | |
-| 2 | Lê Bá Quảng | K25DTCN499 | |
-| 3 | Phan Trần Phương Vy | K25DTCN505 | |
+| 1 | Trần Minh Chiến | K25DTCN489 | Phân tích và thiết kế kiến trúc hệ thống; cài đặt thuật toán UCS, Greedy và A*; viết bộ kiểm thử tự động; quản lý repository GitHub; tổng hợp và biên tập báo cáo.  |
+| 2 | Lê Bá Quảng | K25DTCN499 | Cài đặt thuật toán BFS và DFS; xây dựng mô hình bài toán GridProblem và GraphProblem; cài đặt sinh bản đồ ngẫu nhiên và sinh mê cung; chạy bốn thực nghiệm và thống kê số liệu. |
+| 3 | Phan Trần Phương Vy | K25DTCN505 | Xây dựng giao diện Tkinter và cơ chế mô phỏng từng bước; vẽ sơ đồ kiến trúc, lưu đồ thuật toán và các biểu đồ kết quả; soạn slide thuyết trình; viết tài liệu hướng dẫn README |
 
 ## Giấy phép
 
