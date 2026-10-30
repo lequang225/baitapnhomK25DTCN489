@@ -93,16 +93,18 @@ rộng không nhiều hơn UCS trên 25 bản đồ ngẫu nhiên.
 
 ```
 pathfinding-visualizer/
-├── main.py                  # điểm khởi động (GUI hoặc CLI)
-├── app/
-│   ├── algorithms.py        # 5 thuật toán, dùng chung một giao diện Problem
-│   ├── problems.py          # GridProblem và GraphProblem + sinh bản đồ
-│   ├── gui.py               # giao diện Tkinter, mô phỏng từng bước
-│   └── cli.py               # chạy thực nghiệm, in bảng so sánh
-├── tests/
-│   └── test_algorithms.py   # 15 test case
-└── docs/                    # báo cáo, slide, hình minh hoạ
-```
+|-- main.py                  # diem khoi dong (GUI hoac CLI)
+|-- app/
+|   |-- algorithms.py        # 5 thuat toan + lop SearchResult
+|   |-- problems.py          # GridProblem, GraphProblem, sinh ban do
+|   |-- gui.py               # giao dien Tkinter, mo phong tung buoc
+|   +-- cli.py               # thuc nghiem, in bang so sanh
+|-- tests/
+|   +-- test_algorithms.py   # 15 test case kiem thu tu dong
+|-- docs/                    # bao cao, slide, hinh minh hoa
+|-- README.md
++-- requirements.txt
+
 
 Mọi thuật toán nhận vào một đối tượng bài toán có đúng bốn thành phần —
 `start`, `is_goal(s)`, `neighbors(s)`, `heuristic(s)` — nên có thể áp dụng cho
